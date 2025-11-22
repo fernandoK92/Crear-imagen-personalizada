@@ -126,7 +126,11 @@ en la parte de la ruta de la carpeta del fronted escribimos cmd para que nos abr
 
 <img width="1146" height="937" alt="image" src="https://github.com/user-attachments/assets/abe4caf8-657a-4e3e-8337-b1989a0a1d50" />
 
+
 una vez que se abra la terminal y con la ruta del frontend escribimos code . para que se nos en visual studio code
+
+<img width="703" height="47" alt="image" src="https://github.com/user-attachments/assets/5bacdda5-f9df-4f7d-82e8-e1b9c171dda9" />
+
 
 ingresamos a la terminal del proyecto y instalamos las dependecion con npm install .
 
