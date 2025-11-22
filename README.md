@@ -145,7 +145,7 @@ y se nos abrira en el navegador
 
 <img width="1912" height="1003" alt="image" src="https://github.com/user-attachments/assets/9a1c055b-130a-4bf3-b1fd-abdd760cdf21" />
 
-Ojo para que nos carguen los datos del proyecto necesitamos un servicio backend simulado que lo tenemos que clonar tal cual como el frontend y aplicamso en la terminal del backend lo siguiente para qeu funcione 
+Ojo para que nos carguen los datos del proyecto necesitamos un servicio backend simulado que lo tenemos que clonar tal cual como el frontend y aplicamos en la terminal del backend lo siguiente para que funcione 
 
 <img width="1343" height="970" alt="image" src="https://github.com/user-attachments/assets/39ae698c-0190-4b19-bdfd-23f3175cca67" />
 
