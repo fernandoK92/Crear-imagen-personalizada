@@ -51,7 +51,7 @@ Uso de Git para clonar repositorios.
 
 Objetivo general
 
-Contenerizar una aplicación frontend en React creando una imagen Docker funcional y ejecutando el contenedor correspondiente.
+Aplicación frontend en React creando una imagen Docker funcional y ejecutando el contenedor correspondiente.
 
 Objetivos específicos
 
